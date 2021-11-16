@@ -1,0 +1,38 @@
+body
+{
+    background-image: url(profile/imgbackground.jpg); background-size: 100%;
+}
+
+h1
+{
+    background-color: rgb(41, 41, 41);
+    color: rgb(243, 178, 0);
+    font-family: arial;
+    font-size: 22pt;
+}
+
+p
+{
+    background-color: rgb(41, 41, 41);
+    color: rgb(243, 178, 0);
+    font-family: arial;
+}
+
+h1.secondary
+{
+    background-color: rgb(41, 41, 41);
+    color: rgb(106, 80, 255);
+    font-family: arial;
+    font-size: 21pt;
+}
+
+a
+{
+    background-color: blue;
+    color: red;
+}
+a:hover
+{
+    background-color: red;
+    color: blue
+}
